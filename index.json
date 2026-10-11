@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-print",
+  "versions": [
+    {
+      "commit": "514e2bcfc3497546183df2a4d18aca9b6a28c549",
+      "tag": "1.4.0",
+      "parsed_at": "2026-10-11T02:09:16.305110+00:00"
+    }
+  ]
+}
